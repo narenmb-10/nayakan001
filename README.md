@@ -26,7 +26,7 @@ const Naren = {
   code: [JavaScript, HTML, CSS, PHP, SQL, Python, Java],
   tools: [React, Redux, Bootstrap, Styled-Components],
   projects: ["Personal Portfolio", "Financial Website", "Hand Cricket Game"],
-  interests: ["UI/UX Design", "Web Design", "Accessibility", "Digital Marketing"],
+  interests: ["UI/UX Design", "Web Design", "Business Analyst", "Digital Marketing"],
   challenge: "To secure a position at a reputable company"
 }
 ```
