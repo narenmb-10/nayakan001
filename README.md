@@ -1,6 +1,6 @@
 <h2> Hi, I'm Naren! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://cdn.pixabay.com/animation/2024/06/04/13/22/13-22-13-877_512.gif" width="230">
-<p><em>Student at <a href="https://www.rajalakshmi.org/">Rajalakshmi Engineering College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer
+<p><em>Student at <a href="https://www.rajalakshmi.org/">Rajalakshmi Engineering College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer/ Analyst
 <div align="left">
   <a href="https://discordapp.com/users/1005150755612794921" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
